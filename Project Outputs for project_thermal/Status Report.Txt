@@ -1,0 +1,24 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:51:44 On 22/05/2025
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Thermal_PCB.PcbDoc]
+   Generated File[Thermal_PCB.GTO]
+   Generated File[Thermal_PCB.GTS]
+   Generated File[Thermal_PCB.GTL]
+   Generated File[Thermal_PCB.GBL]
+   Generated File[Thermal_PCB.GBS]
+   Generated File[Thermal_PCB.GBO]
+   Generated File[Thermal_PCB.GD1]
+   Generated File[Thermal_PCB.GG1]
+   Generated File[Thermal_PCB.GM]
+   Generated File[Thermal_PCB.EXTREP]
+   Generated File[Thermal_PCB.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 12:51:46 On 22/05/2025

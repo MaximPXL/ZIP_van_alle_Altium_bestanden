@@ -1,0 +1,13 @@
+Record=TopLevelDocument|FileName=3.3V_Regulator.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=backlight_control.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=batterij_charging.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=batterij_voltage_sensor.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=ecternal_i2c.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=esp32.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=imagesensor.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=navigatie_switches.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=On_Off_switch.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=sd_card.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=tft_display.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=USB_input_and_Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=3.3V_Regulator.SchDoc|FileName=usb_program_circuit.SchDoc|SheetNumber=8
